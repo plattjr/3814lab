@@ -3,7 +3,7 @@
 plattjr@appstate.edu
 
 ### About Me
-![Image](https://plattjr.github.com/portrait.jpg)
+![image](https://github.com/plattjr/3814lab/blob/master/portrait.jpg?raw=true)
 
 
 ### Education
