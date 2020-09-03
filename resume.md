@@ -2,7 +2,7 @@
 Contact: plattjr@appstate.edu
 
 ### About Me
-I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and work experience.
+I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and field work experience.
 
 
 ![image](https://github.com/plattjr/3814lab/blob/master/portrait1.png?raw=true)
@@ -20,7 +20,7 @@ Research Assistant | *2019 - present*
   * Assist in the collection of field data, including cross sectional elevation surveys and pebbles counts along the Watauga River
   * Monitor and process lab samples of suspended sediment and stream velocity at two locations, downstream and upstream of the Ward's Mills Dam
 
-**Southern Appalachian Wilderness Stewards**\
+**[Southern Appalachian Wilderness Stewards](http://wildernessstewards.org)**\
 Trail Crew Member at Linville Gorge Wilderness | *2020 - present*
   * Educate visitors on Leave No Trace principles and wilderness regulations as designated by the Wilderness Act of 1964
   * Implement necessary trail maintenance on the 12 mile Linville Gorge trail
