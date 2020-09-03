@@ -1,19 +1,19 @@
 # Josh Platt
 Contact: plattjr@appstate.edu
 
-### About Me
+## About Me
 I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and field work experience.
 
 
 ![image](https://github.com/plattjr/3814lab/blob/master/portrait1.png?raw=true)
 
 
-### Education
+## Education
 Bachelors of Science in Geography w/ GIS certificate, *2021 Graduation*\
 Appalachian State University\
 Boone, NC, USA
 
-### Work Experience
+## Work Experience
 
 **Appalachian State University Department of Geography and Planning**\
 Research Assistant | *2019 - present*
@@ -46,5 +46,5 @@ Stormwater Field Technician/GIS Intern | *2008-2011*
     * Time management (deadlines with private companies that needed governmental approval of construction)
     * Project collaboration
 
-### Skills and Proficiencies
+## Skills and Proficiencies
   * Adobe Creative Suite, ArcGIS, QGIS, Office, HTML, lab processing, detail orriented
