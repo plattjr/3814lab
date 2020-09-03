@@ -2,19 +2,44 @@
 
 plattjr@appstate.edu
 
-# Summary
+### About Me
+(https://plattjr.github.com/portrait.jpg)
 
 
-
-# Education
-Geography B.S., *2021 Graduation*
+### Education
+Bachelors of Science in Geography w/ GIS certificate, *2021 Graduation*
 Appalachian State University
 Boone, NC, USA
 
-# Work Experience
+### Work Experience
 
-Research Assistant, Appalachian State University Department of Geography and Planning
-*2019 - present*
+**Appalachian State University Department of Geography and Planning**
+Research Assistant | *2019 - present*
+  * Assist in the collection of field data, including cross sectional elevation surveys and pebbles counts along the Watauga River
+  * Monitor suspended sediment and stream velocity at two locations, downstream and upstream of the Ward's Mills Dam
 
-Trail Crew Member at Linville Gorge Wilderness, Southern Appalachian Wilderness Stewards
-*2020 - present*
+**Southern Appalachian Wilderness Stewards**
+Trail Crew Member at Linville Gorge Wilderness | *2020 - present*
+  * Educate visitors on Leave No Trace principles and wilderness regulations as designated by the Wilderness Act of 1964
+  * Implement necessary trail maintenance on the 12 mile Linville Gorge trail
+  * Certifications: *Crosscut Sawyer A, CPR/First Aid, Wilderness First Aid*
+
+**Death By Ink Printshop**
+Owner & Printer | *2007 - 2019*
+  * A one person operation, so everything from customer service, production of screen printed goods, bookkeeping, and building relationships.
+  * Skills developed in this position:
+    * Adobe Photoshop and Illustrator for design, HTML for web building
+    * Bookkeeping software (QuickBooks, Square Register)
+    * Writen communication
+    * Time management & streamlining of sales
+
+**City of Greensboro Water Resources**
+Stormwater Field Technician/GIS Intern | *2008-2011*
+  * Collected stormwater infrastructure data points using Trimble GNSS Receiver
+  * Performed QA/QC editing tasks in ESRI ArcGis
+  * Cross reference blueprints and GIS data to determine areas in need of data collection.
+  * Assisted on customer drainage complaints to solve runoff issues
+  * Skills developed in this position:
+    * Communicating and solving problems with the public
+    * Time management (deadlines with private companies that needed governmental approval of construction)
+    * Project collaboration
