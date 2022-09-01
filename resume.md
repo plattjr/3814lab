@@ -5,7 +5,7 @@ Contact: plattjr@appstate.edu
 I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and field work experience.
 
 
-![image](https://github.com/plattjr/3814lab/blob/master/portrait1.png?raw=true =250x)
+![image](https://github.com/plattjr/3814lab/blob/master/portrait1.png =250x)
 
 
 ## Education
