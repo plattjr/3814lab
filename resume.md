@@ -5,18 +5,18 @@ Contact: plattjr@appstate.edu
 I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and field work experience.
 
 
-![image](https://github.com/plattjr/3814lab/blob/master/portrait1.png =250x)
+![image](https://github.com/plattjr/3814lab/blob/master/portrait1.png?raw=true)
 
 
 ## Education
-Bachelors of Science in Geography w/ GIS certificate, *2021 Graduation*\
+Bachelors of Science in Geography\
 Appalachian State University\
 Boone, NC, USA
 
 ## Work Experience
 
 **Appalachian State University Department of Geography and Planning**\
-Research Assistant | *2019 - present*
+Research Assistant | *2019 - July 2021*
   * Assist in the collection of field data, including cross sectional elevation surveys and pebbles counts along the Watauga River
   * Monitor and process lab samples of suspended sediment and stream velocity at two locations, downstream and upstream of the Ward's Mills Dam
 
